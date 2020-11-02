@@ -1,6 +1,6 @@
 # Scheduler
 <h2>Getting Started</h2>
-<p>This project is a Work Day Scheduler to help you remind you about the task you need to get done.</p>
+<p>This project is a Work Day Scheduler to help workers plan their day. </p>
 <h3>Preview:</h3>
 
 <p align="center">
