@@ -1,4 +1,4 @@
-# Scheduler
+# Work Scheduler
 <h2>Getting Started</h2>
 <p>This project is a Work Day Scheduler to help workers plan their day. </p>
 <h3>Preview:</h3>
